@@ -1,10 +1,10 @@
 fastapi
 uvicorn
 pandas
-streamlit
 google-generativeai
 pandas
 fpdf
 python-dotenv
 imageio-ffmpeg
 setuptools
+python-multipart
